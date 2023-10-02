@@ -10,4 +10,8 @@ tags={
 	"Technologies"
 }
 name="Divergence of Darkness"
+replace_path = "history/states"
+replace_path = "common/countries"
+replace_path = "history/countries"
+replace_path = "gfx/flags"
 supported_version="1.12.14"

@@ -1,16 +1,20 @@
 #reload countrycolors
 
+DUA = {
+	color = rgb { 94 47 128 }
+	color_ui = rgb { 94 47 128 }
+}
 BRG = {
-	color = rgb { 84 9 42 }
-	color_ui = rgb { 84 9 42 }
+	color = rgb { 128 0 32 }
+	color_ui = rgb { 128 0 32 }
 }
 DBF = {
 	color = rgb { 29 207 242 }
 	color_ui = rgb { 29 207 242 }
 }
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 168 17 17 }
+	color_ui = rgb { 168 17 17 }
 }
 ENG = {
 	color = rgb { 201 56 93 }
@@ -58,8 +62,8 @@ EST = {
 	color_ui = rgb { 99 204 254 }
 }
 LAT = {
-	color = rgb { 75 77 186 }
-	color_ui = rgb { 124 125 184 }
+	color = rgb { 21 91 140 }
+	color_ui = rgb { 21 91 140 }
 }
 SPR = {
 	color = rgb { 242 205 94 }
@@ -110,12 +114,12 @@ POR = {
 	color_ui = rgb { 51 151 91 }
 }
 FIN = {
-	color = rgb { 205 212 228 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 133 180 255 }
+	color_ui = rgb { 133 180 255 }
 }
 IRE = {
-	color = rgb { 80 159 90 }
-	color_ui = rgb { 104 207 117 }
+	color = rgb { 133 180 255 }
+	color_ui = rgb { 133 180 255 }
 }
 HUN = {
 	color = rgb { 249 126 98 }
@@ -377,8 +381,8 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }	
+	color = rgb { 173 94 9 }
+	color_ui = rgb { 173 94 9 }	
 }
 
 AZR = {
@@ -724,8 +728,8 @@ KAR = {
 	color_ui = rgb { 0 128 43 }
 }
 CRI = {
-	color = rgb { 255 80 80 }
-	color_ui = rgb { 204 0 0 }
+	color = rgb { 132 227 211 }
+	color_ui = rgb { 132 227 211 }
 }
 TAT = {
 	color = rgb { 255 51 0 }

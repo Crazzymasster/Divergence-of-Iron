@@ -10,5 +10,9 @@ tags={
 	"Technologies"
 }
 name="Divergence of Darkness"
+replace_path="history/states"
+replace_path="common/countries"
+replace_path="history/countries"
+replace_path="gfx/flags"
 supported_version="1.12.14"
 path="C:/Users/Ane/Documents/Paradox Interactive/Hearts of Iron IV/mod/Divergences"
