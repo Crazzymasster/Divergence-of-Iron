@@ -21,8 +21,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 103 146 103 }
+	color_ui = rgb { 103 146 103 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -70,12 +70,12 @@ SPR = {
 	color_ui = rgb { 255 255 122 }
 }
 ITA = {
-	color = rgb { 67 127 63 }
-	color_ui = rgb { 87 165 82 }
+	color = rgb { 41 207 47 }
+	color_ui = rgb { 41 207 47 }
 }
 ROM = {
-	color = rgb { 215 196 72 }
-	color_ui = rgb { 255 255 120 }
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
 }
 YUG = {
 	color = rgb { 72 73 126 }
@@ -190,8 +190,8 @@ HON = {
 	color_ui = rgb { 128 145 65 }
 }
 IRQ = {
-	color = rgb { 178 114 99 }
-	color_ui = rgb { 231 148 129 }
+	color = rgb { 36 38 36 }
+	color_ui = rgb { 36 38 36 }
 }
 JAP = {
 	color = hsv { 0.05 0.3 1 }
@@ -316,8 +316,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 230  70  180 }
-	color_ui = rgb { 230 255 122 }
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
 }
 
 PRC = {
@@ -371,8 +371,8 @@ SYR = {
 }
 
 SER = {
-	color = rgb { 160 110 110 }
-	color_ui = rgb { 160 110 110 }
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
 }
 
 ICE = {
