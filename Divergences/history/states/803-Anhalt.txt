@@ -1,0 +1,19 @@
+
+state={
+	id=803
+	name="STATE_803"
+	state_category = town
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = GER
+	}
+	provinces={
+		526 6377 6513 9375 11402 11468 11493 
+	}
+	manpower=789302
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

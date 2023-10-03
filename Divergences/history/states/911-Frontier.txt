@@ -1,0 +1,20 @@
+
+state={
+	id=911
+	name="STATE_911"
+	state_category = town
+	history={
+		owner = BRG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = DUA
+		add_core_of = BRG
+	}
+	provinces={
+		551 3506 3533 3546 6545 9490 11732 13011 
+	}
+	manpower=345675
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

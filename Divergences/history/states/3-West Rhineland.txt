@@ -1,0 +1,20 @@
+
+state={
+	id=3
+	name="STATE_3"
+	state_category = town
+	history={
+		owner = BRG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RHI
+		add_core_of = BRG
+	}
+	provinces={
+		587 3444 3547 9522 11470 11494 
+	}
+	manpower=657000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

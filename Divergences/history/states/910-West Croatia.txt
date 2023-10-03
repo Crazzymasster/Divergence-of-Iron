@@ -1,0 +1,19 @@
+
+state={
+	id=910
+	name="STATE_910"
+	state_category = town
+	history={
+		owner = CRO
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CRO
+	}
+	provinces={
+		984 3592 3596 3601 3974 3985 6611 6614 6957 9586 
+	}
+	manpower=1237839
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
