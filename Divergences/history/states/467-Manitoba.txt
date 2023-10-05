@@ -4,7 +4,7 @@ state={
 	name="STATE_467"
 
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -13,16 +13,15 @@ state={
 		victory_points = {
 			4872 5 
 		}
-		add_core_of = CAN
+		add_core_of = USA
 
 	}
 
 	provinces={
-		1848 1873 3721 4218 4426 4790 4872 5119 12145 12636 12688 13163 
+		1788 1848 1873 3721 4218 4426 4790 4872 5119 10611 10656 12145 12593 12603 12636 12663 12688 13163 
 	}
 	manpower=641071
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=9.0 
+	local_supplies=9.000
 }
