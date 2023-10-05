@@ -1,3 +1,4 @@
+
 state={
 	id=322
 	name="STATE_322"
@@ -6,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = TIB
+		owner = DZU
+		add_core_of = DZU
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -17,11 +19,10 @@ state={
 	}
 
 	provinces={
-		2010 2093 4994 5011 7926 8068 10755 10918 
+		2010 2093 4914 4994 5011 7926 7940 8037 8068 10755 10918 12899 
 	}
 	manpower=1722000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-
-	local_supplies=2.0 
+	local_supplies=2.000
 }

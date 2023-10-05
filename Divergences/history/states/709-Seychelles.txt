@@ -7,7 +7,7 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = SCA
 		buildings = {
 			infrastructure = 2
 			2188 = {

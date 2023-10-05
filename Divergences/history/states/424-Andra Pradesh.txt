@@ -7,7 +7,7 @@ state={
 	
 
 	history={
-		owner = RAJ
+		owner = IBE
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

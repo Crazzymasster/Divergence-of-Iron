@@ -1,23 +1,24 @@
 
-state = {
-	id = 824
-	name = "STATE_824" # Yamalia
-	manpower = 21974
-	
-	state_category = pastoral
+state={
+	id=824
+	name="STATE_824"
 
-	history = {
-		owner = SOV
+	history={
+		owner = DZU
 		buildings = {
 			infrastructure = 1
+
 		}
-		add_core_of = SOV
+		add_core_of = DZU
 		add_core_of = YAM
+
 	}
 
-	provinces = {
-		96 1729 1757 3415 4761 7809 10536 10564 12517 12545 
+	provinces={
+		96 1729 1757 3415 4761 7689 7738 7809 10536 10564 12517 12545 
 	}
-
-	local_supplies = 0.0 
+	manpower=21974
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }
